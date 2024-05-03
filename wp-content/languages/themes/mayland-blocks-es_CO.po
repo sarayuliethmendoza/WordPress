@@ -1,0 +1,87 @@
+# Translation of Themes - Mayland (Blocks) in Spanish (Colombia)
+# This file is distributed under the same license as the Themes - Mayland (Blocks) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-07 02:05:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CO\n"
+"Project-Id-Version: Themes - Mayland (Blocks)\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Make your online portfolio wonderfully uncluttered with Mayland. Gracefully highlight your photography and other projects. Mayland is versatile enough to be your personal site too."
+msgstr "Con Mayland, haz que tu porfolio online esté espléndidamente ordenado. Destaca elegantemente tus fotografías y otros proyectos. Mayland es lo suficientemente versátil como para ser también su sitio personal."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Mayland (Blocks)"
+msgstr "Mayland (Blocks)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediana"
+
+#: theme.json
+msgctxt "Color name"
+msgid "tertiary"
+msgstr "Terciario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeña"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wordpress.com/theme/mayland-blocks"
+msgstr "https://es.wordpress.com/theme/mayland-blocks"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Automattic"
+msgstr "Automattic"
